@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: rgb(93, 66, 66);
+  color: #FFF;
+  text-align: center;
+  border-radius: 15px; 
+  width: 70%;
+  max-width: 500px; 
+  margin: 10px auto;
+  padding: 20px;
+  background-image: url('./images/japa.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app { 
+  text-align: center;
+  color: #000000;
+  width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+  height: 630px;
+  padding: 40px;
+ 
+}
+ 
